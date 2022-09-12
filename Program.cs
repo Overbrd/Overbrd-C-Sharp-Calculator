@@ -1,4 +1,6 @@
-﻿// code for calculator to run from this code into console window and perform calculation inside the window itself
+﻿// created 091222 by Matthew C. Lind
+
+// code for calculator to run from this code into console window and perform calculation inside the window itself
 
 /*int a = 22;
 int b = 121;
